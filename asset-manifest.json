@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/halloweenmemo/static/css/main.235c6041.chunk.css",
+    "main.js": "/halloweenmemo/static/js/main.8b93b552.chunk.js",
+    "main.js.map": "/halloweenmemo/static/js/main.8b93b552.chunk.js.map",
+    "runtime-main.js": "/halloweenmemo/static/js/runtime-main.2cb5770c.js",
+    "runtime-main.js.map": "/halloweenmemo/static/js/runtime-main.2cb5770c.js.map",
+    "static/js/2.3fe87dda.chunk.js": "/halloweenmemo/static/js/2.3fe87dda.chunk.js",
+    "static/js/2.3fe87dda.chunk.js.map": "/halloweenmemo/static/js/2.3fe87dda.chunk.js.map",
+    "index.html": "/halloweenmemo/index.html",
+    "static/css/main.235c6041.chunk.css.map": "/halloweenmemo/static/css/main.235c6041.chunk.css.map",
+    "static/js/2.3fe87dda.chunk.js.LICENSE.txt": "/halloweenmemo/static/js/2.3fe87dda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb5770c.js",
+    "static/js/2.3fe87dda.chunk.js",
+    "static/css/main.235c6041.chunk.css",
+    "static/js/main.8b93b552.chunk.js"
+  ]
+}
